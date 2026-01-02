@@ -7,7 +7,7 @@ const ALGOLIA_APP_ID = process.env.ALGOLIA_APP_ID;
 const ALGOLIA_API_KEY = process.env.ALGOLIA_API_KEY;
 const ALGOLIA_INDEX_NAME = process.env.ALGOLIA_INDEX_NAME;
 const DOCS_DIR = join(process.cwd(), "docs");
-const BASE_URL = process.env.BASE_URL || "https://emogir.ls";
+const BASE_URL = process.env.BASE_URL || "https://help.emogir.ls";
 
 if (!ALGOLIA_APP_ID || !ALGOLIA_API_KEY || !ALGOLIA_INDEX_NAME) {
   console.error("❌ Missing required environment variables:");

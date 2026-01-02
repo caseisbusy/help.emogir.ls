@@ -6,7 +6,7 @@ const config = {
   tagline: "Documentation for emogir.ls",
   favicon: "img/emogirls-eyes.png",
 
-  url: "https://emogir.ls",
+  url: "https://help.emogir.ls",
   baseUrl: "/",
 
   organizationName: "emogirls",
