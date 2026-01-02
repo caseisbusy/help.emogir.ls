@@ -66,7 +66,7 @@ function Home() {
                   </span>
                 </Link>
                 <Link
-                  to="/docs/introduction"
+                  to="/docs/premium/all-guides"
                   className={`${styles.card} button`}
                 >
                   <span className={styles.cardContent}>

@@ -52,6 +52,27 @@ export default {
           label: "Analytics",
         }
       ]
-    }
+    },
+    {
+      type: "category",
+      label: "Premium Guides",
+      items: [
+        {
+          type: "doc",
+          id: "premium/all-guides",
+          label: "Guide index",
+        },
+        {
+          type: "doc",
+          id: "premium/badge-customization",
+          label: "Badge Customization & Controls",
+        },
+        {
+          type: "doc",
+          id: "premium/free-alias",
+          label: "Free Alias",
+        }
+      ]
+    },
   ],
 };
