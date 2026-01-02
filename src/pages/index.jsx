@@ -48,7 +48,7 @@ function Home() {
                   </span>
                 </Link>
                 <Link
-                  to="/docs/customization/getting-started"
+                  to="/docs/how-to/assets"
                   className={`${styles.card} button`}
                 >
                   <span className={styles.cardContent}>
@@ -57,7 +57,7 @@ function Home() {
                   </span>
                 </Link>
                 <Link
-                  to="/docs/customization/getting-started"
+                  to="/docs/how-to/assets"
                   className={`${styles.card} button`}
                 >
                   <span className={styles.cardContent}>
@@ -66,7 +66,7 @@ function Home() {
                   </span>
                 </Link>
                 <Link
-                  to="/docs/premium/all-guides"
+                  to="/docs/premium/badge-customization"
                   className={`${styles.card} button`}
                 >
                   <span className={styles.cardContent}>
@@ -107,7 +107,7 @@ function Home() {
                   </span>
                 </Link>
                 <Link
-                  to="/docs/customization/getting-started"
+                  to="/docs/customization/exploring-your-options"
                   className={`${styles.card} button`}
                 >
                   <span className={styles.cardContent}>
@@ -116,7 +116,7 @@ function Home() {
                   </span>
                 </Link>
                 <Link
-                  to="/docs/introduction"
+                  to="/docs/premium/badge-customization"
                   className={`${styles.card} button`}
                 >
                   <span className={styles.cardContent}>
