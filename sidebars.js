@@ -80,8 +80,18 @@ export default {
         },
         {
           type: "doc",
+          id: "premium/custom-badge",
+          label: "Free Custom Badge",
+        },
+        {
+          type: "doc",
           id: "premium/free-alias",
           label: "Free Alias",
+        },
+        {
+          type: "doc",
+          id: "premium/3l-users",
+          label: "3 Letter Usernames",
         }
       ]
     },
